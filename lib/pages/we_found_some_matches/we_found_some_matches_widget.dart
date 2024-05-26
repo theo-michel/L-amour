@@ -80,9 +80,9 @@ class _WeFoundSomeMatchesWidgetState extends State<WeFoundSomeMatchesWidget> {
                         updateCallback: () => setState(() {}),
                         child: DatingWidget(
                           imageUrl:
-                              'https://upload.wikimedia.org/wikipedia/commons/2/25/Victor_Hugo_001.jpg',
-                          userName: 'Victor',
-                          userDescription: 'He is the best Looking',
+                              'https://i0.wp.com/perell.com/wp-content/uploads/2020/12/grant-sanderson.png?w=1500&ssl=1',
+                          userName: 'Grant Sanderson',
+                          userDescription: 'We have detected the user loves maths, and physics just like you !',
                         ),
                       ),
                     ),
@@ -101,7 +101,7 @@ class _WeFoundSomeMatchesWidgetState extends State<WeFoundSomeMatchesWidget> {
                           imageUrl:
                               'https://poets.org/sites/default/files/images/biographies/CharlesBukowski_NewBioImage.jpg',
                           userName: 'Bukowski',
-                          userDescription: 'He is sad',
+                          userDescription: 'We noticed you guys, would be a really nice romantic match.',
                         ),
                       ),
                     ),
@@ -118,9 +118,9 @@ class _WeFoundSomeMatchesWidgetState extends State<WeFoundSomeMatchesWidget> {
                         updateCallback: () => setState(() {}),
                         child: DatingWidget(
                           imageUrl:
-                              'https://www.nmspacemuseum.org/wp-content/uploads/2019/03/Elon_Musk.jpg',
-                          userName: 'Elon Musk',
-                          userDescription: 'He really wants to go to Mars',
+                              'https://www.gala.fr/imgre/fit/~1~gal~2024~01~18~3290ae18-dd4b-4992-b05b-3ebcf790e586.jpeg/3197x2398/quality/80/barack-obama.jpeg',
+                          userName: 'Barack Obama',
+                          userDescription: 'We have noticed he is really mission driven just like you !',
                         ),
                       ),
                     ),

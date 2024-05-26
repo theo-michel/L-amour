@@ -16,7 +16,9 @@ class ConversationCloneModel extends FlutterFlowModel<ConversationCloneWidget> {
 
   String? inputContent = '';
 
-  dynamic chatHistory;
+  // dynamic chatHistory;
+  // var chatHistory = [{"role":"user","content":"Hi how are you today ?"},{"role":"user1","content":"I am good I just finished a math problem"},{"role":"user","content":"Oh nice I study physics as well !"}];
+  var chatHistory = [{'role': 'user', 'content': '"Vibin with you, darling!"'}, {'role': 'assistant', 'content': "You're a sweetheart!"}, {'role': 'user', 'content': "Thanks, you're too kind!"}, {'role': 'assistant', 'content': "Aw, shucks, thanks for bein' so sweet!"}, {'role': 'user', 'content': "You're makin' me blush!"}, {'role': 'assistant', 'content': "You're makin' me smile!"}, {'role': 'user', 'content': "That's the best I've solved all day!"}, {'role': 'assistant', 'content': "You're a charmer, ain't ya?"}, {'role': 'user', 'content': "Guess you could say I've got your number!"}, {'role': 'assistant', 'content': "You're cookin' up some sweet talk!"}, {'role': 'user', 'content': 'Just serving up some byte-sized flattery!'}];
 
   ///  State fields for stateful widgets in this page.
 

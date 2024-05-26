@@ -190,7 +190,7 @@ class _ConversationCloneWidgetState extends State<ConversationCloneWidget> {
                                                                         maxWidth:
                                                                             () {
                                                                           if (MediaQuery.sizeOf(context).width >=
-                                                                              1170.0) {
+                                                                              1050.0) {
                                                                             return 700.0;
                                                                           } else if (MediaQuery.sizeOf(context).width <=
                                                                               470.0) {
@@ -361,7 +361,7 @@ class _ConversationCloneWidgetState extends State<ConversationCloneWidget> {
                                                                   decoration:
                                                                       BoxDecoration(
                                                                     color: Color(
-                                                                        0xFF218AFF),
+                                                                        0xFF598FC7),
                                                                     borderRadius:
                                                                         BorderRadius.circular(
                                                                             12.0),
